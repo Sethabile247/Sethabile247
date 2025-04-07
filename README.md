@@ -9,7 +9,12 @@
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Solar backpack pitch video](https://youtu.be/R_zaf6Ld1M8?si=0rvp9PGnMeRRYOY4)
+<h2> </h2>
 
+<h2> My skills</h2>
+- [HTML]
+- [CSS] 
+- [JavaScript] 
 <h2> 🤳 Connect with me:</h2>
 
 
